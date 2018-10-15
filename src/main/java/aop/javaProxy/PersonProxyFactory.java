@@ -1,6 +1,5 @@
 package aop.javaProxy;
 
-//import aop.demo.PersonImpl;
 import aop.cglib.interfac.PersonImpl;
 import aop.demo.Speakable;
 
